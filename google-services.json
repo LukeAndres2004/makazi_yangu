@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141259573934",
+    "project_id": "makaziyangu-2ee6d",
+    "storage_bucket": "makaziyangu-2ee6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141259573934:android:7009ba68a0d60c5441fb3f",
+        "android_client_info": {
+          "package_name": "com.makaziyangu.makaziyangu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQKc9oEEr4rgTfFUvtJ4YBjsfSEnSAr4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
